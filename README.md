@@ -16,7 +16,7 @@ This repository showcases various HTML animations and games that demonstrate my 
 
 ## Story
 ### Description
-An HTML animation in which a hero shoots a lightning bolt at a villain. Portions of the code are commented out to demonstrate alternate ways the animation can play out. This project demonstrates my skills in writing code to animate images.
+An HTML animation in which a hero shoots a lightning bolt at a villain. Portions of the code are commented out to demonstrate alternate ways the animation can play out. The guided project came with its own images for the hero and the lightning bolt, but were changed by me to personalize it. This project demonstrates my skills in writing code to animate images.
 
 ### Code Snippet
 ```javascript
