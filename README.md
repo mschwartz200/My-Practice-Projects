@@ -182,5 +182,5 @@ For the HTML projects, download the file folders to a preferred destination on a
 Add your own code snippets and/or files to the repository. Nothing inappropriate, please.
 
 ## License
-The projects in this repository were created under the guidance of Coursera. Coursera allows me to retain all intellectual property rights to my projects, and I am permitted to distribute them. This project is licensed under the GNU General Public License (GPL) - see the LICENSE file for details.
+The projects in this repository were created under the guidance of Coursera. Coursera allows me to retain all intellectual property rights to my projects, and I am permitted to distribute them. This project is licensed under the Apache License - see the LICENSE file for details.
   
